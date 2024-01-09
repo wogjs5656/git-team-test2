@@ -1,10 +1,12 @@
 
 
 function solution(sum) {
+    return sum = a + b;
 }
 
 
 function solution(sub) {
+	console.log('hello')
 }
 
 
