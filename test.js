@@ -1,6 +1,11 @@
-function solution(sum) {}
+function solution(sum) {
+  return (sum = a + b);
+}
 
-function solution(sub) {}
+function solution(sub) {
+  console.log('hello')
+}
+
 
 function solution(mul) {}
 
