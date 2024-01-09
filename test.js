@@ -1,5 +1,3 @@
-
-
 function solution(sum) {
     return sum = a + b;
 }
@@ -13,10 +11,8 @@ function solution(sub) {
 function solution(mul) {
 }
 
-
-function solution(div) {
-}
+function solution(div) {}
 
 function solution(avg) {
-    logic-everyday
+  console.log(avg);
 }
