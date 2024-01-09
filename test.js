@@ -1,19 +1,11 @@
+function solution(sum) {}
 
+function solution(sub) {}
 
-function solution(sum) {
-}
+function solution(mul) {}
 
-
-function solution(sub) {
-}
-
-
-function solution(mul) {
-}
-
-
-function solution(div) {
-}
+function solution(div) {}
 
 function solution(avg) {
+  console.log(avg);
 }
