@@ -6,6 +6,7 @@ function solution(sum) {
 
 
 function solution(sub) {
+	console.log('hello')
 }
 
 
