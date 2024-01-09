@@ -18,4 +18,5 @@ function solution(div) {
 }
 
 function solution(avg) {
+    logic-everyday
 }
